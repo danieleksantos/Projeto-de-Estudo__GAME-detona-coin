@@ -10,7 +10,7 @@ O objetivo do jogo é coletar moedas e superar desafios em um ambiente interativ
 - JavaScript
 
 ## 📸 Demonstração
-!"[Jogue clicando aqui](https://danieleksantos.github.io/Projeto-de-Estudo__GAME-detona-coin/)
+![Jogue clicando aqui](https://danieleksantos.github.io/Projeto-de-Estudo__GAME-detona-coin/)
 ## 📂 Estrutura do Projeto
 ```
 Projeto-de-Estudo__GAME-detona-coin/
